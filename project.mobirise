@@ -270,6 +270,40 @@
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-b",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ef676b",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "COMPARTILHE ESTE TOUR!"
+        },
+        {
           "_styles": {
             ".mbr-section-title, p": {
               "color": "#fff"
@@ -292,7 +326,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "qrc:/web/app/builder/../../../web/app/themes/mobirise3/components/_images/desert.jpg",
-            "bgColor": "#ef676b",
+            "bgColor": "#203274",
             "bgColorRadio": true,
             "bgVideo": {
               "width": 1280,
@@ -319,15 +353,15 @@
           "_name": "gallery4",
           "_params": {
             "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "images": [
               {
                 "tags": "Maringá",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19243180-1386367234773853-3837240992324691152-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19243180-1386367234773853-3837240992324691152-o-2000x1333.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -336,46 +370,76 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19221505-1386368028107107-7082726608452092015-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19221505-1386368028107107-7082726608452092015-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Curitiba",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19143960-1384178861659357-8272150179110072957-o-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19143960-1384178861659357-8272150179110072957-o-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Curitiba",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19023585-1377328389011071-4892700658900783326-o-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19023585-1377328389011071-4892700658900783326-o-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Curitiba",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19055917-1384178121659431-5201050200258495703-o-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19055917-1384178121659431-5201050200258495703-o-2000x1328.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Maringá",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19222591-1386367571440486-5827400995061028567-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19222591-1386367571440486-5827400995061028567-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Maringá",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19095711-1386367504773826-1795641009789768850-o-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19095711-1386367504773826-1795641009789768850-o-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Curitiba",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/19243057-1384181031659140-261182829081909090-o-1-2000x1328-800x531.jpg",
+                "image": "@PROJECT_PATH@/assets/images/19243057-1384181031659140-261182829081909090-o-1-2000x1328.jpg",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "tags": "Curitiba",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Curitiba",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Curitiba",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
-                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
-                "caption": "Type caption here",
-                "active": false
               }
             ],
             "spacing": "0",
             "showText": false,
             "filter": true,
-            "bgColor": "#ef676b",
+            "bgColor": "#203274",
             "filterBgColor": false,
             "fullWidth": false,
             "showBullets": true
@@ -383,40 +447,6 @@
           "_anchor": "gallery4-6",
           "articleLayout": false,
           "allItem": "Todos"
-        },
-        {
-          "_inherit": "social-buttons1",
-          "_styles": {
-            ".mbr-section-title, .btn-social": {
-              "color": "#fff"
-            },
-            ".mbr-section-title": {
-              "color": "#ef676b"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "social-buttons3",
-          "_anchor": "social-buttons3-b",
-          "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#203274",
-            "bgColorRadio": true,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "facebook": true,
-            "twitter": true,
-            "google": true,
-            "vkontakte": false,
-            "odnoklassniki": false
-          },
-          "text": "COMPARTILHE ESTE TOUR!"
         },
         {
           "_styles": {

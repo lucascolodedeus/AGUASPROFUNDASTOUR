@@ -452,6 +452,13 @@ h6,
 #features2-8 .mbr-cards-col:nth-child(odd) .card-text {
   color: #ffffff;
 }
+#social-buttons3-b .mbr-section-title,
+#social-buttons3-b .btn-social {
+  color: #fff;
+}
+#social-buttons3-b .mbr-section-title {
+  color: #ffffff;
+}
 #msg-box8-a .mbr-section-title,
 #msg-box8-a p {
   color: #fff;
@@ -461,13 +468,6 @@ h6,
 }
 #msg-box8-a .lead P {
   color: #ffffff;
-}
-#social-buttons3-b .mbr-section-title,
-#social-buttons3-b .btn-social {
-  color: #fff;
-}
-#social-buttons3-b .mbr-section-title {
-  color: #ef676b;
 }
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;
