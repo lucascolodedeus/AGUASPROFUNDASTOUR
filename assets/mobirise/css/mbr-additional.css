@@ -415,6 +415,22 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #ef676b;
 }
+#header3-j .mbr-section-title,
+#header3-j .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-j H3 {
+  color: #ffffff;
+}
+#header3-j SMALL {
+  color: #ffffff;
+}
+#content2-l BLOCKQUOTE {
+  color: #ffffff;
+}
+#content1-n P {
+  color: #ffffff;
+}
 #features2-8 .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #ef676b;
 }
