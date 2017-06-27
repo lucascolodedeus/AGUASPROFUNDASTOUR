@@ -91,24 +91,6 @@
           "_tags": [
             "Theme"
           ],
-          "_name": "content2",
-          "_anchor": "content2-l",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#203274"
-          },
-          "text": "<blockquote>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools available today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</blockquote>",
-          "_styles": {
-            "BLOCKQUOTE": {
-              "color": "#ffffff"
-            }
-          }
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
           "_name": "content1",
           "_anchor": "content1-n",
           "_params": {
@@ -116,7 +98,7 @@
             "paddingBottom": "7",
             "bgColor": "#203274"
           },
-          "text": "<p>Make your own website in a few clicks! Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface. MobiRise Website Builder creates responsive, retina and mobile friendly websites in a few clicks. Mobirise is one of the easiest website development tools&nbsp;today. It also gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.</p>",
+          "text": "<p>Sempre teve vontade de participar do Águas Profundas?&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Sempre que assisti as lives, apaga a luz do quarto e começa a rezar?</span></p><p>Então você vai gostar da notícia: AGORA VAMOS FAZER O ÁGUAS EM ALGUMAS CIDADES DO BRASIL!</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">O Águas Profundas é nosso encontro semanal de aprofundamento e formação, onde vamos fundo na presença de Deus através da adoração, do louvor, e também do estudo da Palavra, dos ensinamentos da Igreja e da vida dos santos. Você não pode perder!</span><br></p>",
           "_styles": {
             "P": {
               "color": "#ffffff"
@@ -189,14 +171,14 @@
             }
           },
           "title1": "ADORAÇÃO",
-          "subtitle1": "Adoramos a Deus",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "subtitle1": "Puro Worship for Jesus!",
+          "caption1": "",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-features2",
               "linkInNewWindow": false,
-              "name": "speed",
+              "name": "save",
               "family": "MobiriseIcons",
               "active": true,
               "link": "https://mobirise.com",
@@ -205,8 +187,8 @@
             }
           },
           "title2": "APROFUNDAMENTO",
-          "subtitle2": "Aprofundamos a Palavra",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "subtitle2": "Ir fundo na reflexão da Palavra",
+          "caption2": "",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "iconFont": {
@@ -221,8 +203,8 @@
             }
           },
           "title3": "LOUVOR",
-          "subtitle3": "Louvamos o Senhor",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "subtitle3": "Chapar no espirito",
+          "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "iconFont": {
@@ -237,8 +219,8 @@
             }
           },
           "title4": "PARTILHA",
-          "subtitle4": "Partilhamos as maravilhas",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "subtitle4": "Conversas edificantes",
+          "caption4": "",
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "iconFont": {
@@ -611,7 +593,7 @@
           "period2": ",00",
           "description2": "*Na hora preço pode variar",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Inicio às 19h</li><li class=\"list-group-item\">Paróquia Imaculada Conceição de Santa Cruz</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://\" class=\"btn btn-secondary-outline btn-secondary\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-em-maringa-02-comunidade-catolica-colo-de-deus-tickets-35406582040?aff=erelexpmlt\" class=\"btn btn-secondary-outline btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COMPRAR</a>",
           "label3": "HOT!",
           "title3": "SÃO PAULO / SP",
           "subtitle3": "Acontecerá no dia 10/julho",
