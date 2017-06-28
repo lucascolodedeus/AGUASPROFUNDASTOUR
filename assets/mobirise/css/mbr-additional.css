@@ -476,11 +476,24 @@ h6,
 #header3-p SMALL {
   color: #ffffff;
 }
-#features6-o H4 {
-  color: #ffffff;
+#features1-q .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ef676b;
 }
-#features6-o P {
+#features1-q .mbr-cards-col:nth-child(even) .card-title {
   color: #ffffff;
+  font-size: 16px;
+}
+#features1-q .mbr-cards-col:nth-child(even) .card-text {
+  color: #ffffff;
+  text-align: left;
+  font-size: 11px;
+}
+#features1-q .mbr-cards-col:nth-child(odd) .card-text {
+  font-size: 10px;
+  text-align: left;
+}
+#features1-q .mbr-cards-col:nth-child(odd) .card-title {
+  font-size: 16px;
 }
 #menu-5 .hide-buttons .nav-btn {
   display: none !important;

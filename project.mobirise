@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 26,
+    "uniqCompNum": 28,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "",
@@ -451,8 +451,8 @@
           "_name": "header3",
           "_anchor": "header3-p",
           "_params": {
-            "paddingTop": "7",
-            "paddingBottom": 1,
+            "paddingTop": "3",
+            "paddingBottom": "2",
             "bgColor": "#ef676b",
             "showMeta": true
           },
@@ -460,27 +460,19 @@
           "meta": "Confira abaixo os próximos locais da nossa turnê"
         },
         {
-          "_inherit": "features3",
           "_tags": [
             "Theme"
           ],
-          "_name": "features6",
-          "_styles": {
-            "H4": {
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "features6-o",
+          "_name": "features1",
+          "_anchor": "features1-q",
           "_params": {
+            "columnsColor": "#ef676b",
             "paddingTop": 2,
             "paddingBottom": 2,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ef676b",
+            "bgColor": "#203274",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -497,101 +489,122 @@
             "showButtons": true
           },
           "media1": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "desktop",
-              "family": "et-line",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/rio-de-janeiro-city-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff"
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title1": "RIO DE JANEIRO / RJ",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Acontecerá no dia 05/julho, a entrada custará previamente R$25,00 e no local os preços podem variar. Será na Paróquia Imaculada Conceição de Santa Cruz<br><br>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">GARANTIR INGESSO</a>",
+          "caption1": "DATA E HORA<br><br>sex 5 de julho de 2017<br>19:30 – 23:00<br><br>LOCALIZAÇÃO<br><br>Paróquia Nossa Senhora da Conceição<br>Praça Dom Romualdo, 11 - Santa Cruz, Rio de Janeiro - RJ, 23515-000<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">EM BREVE</a>",
           "media2": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "mobile",
-              "family": "et-line",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/maring-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff"
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title2": "MARINGÁ / PR&nbsp;",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Acontecerá no dia 07/julho, a entrada custará previamente R$25,00 e no local os preços podem variar. Será na Paróquia Imaculada Conceição de Santa Cruz<br>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-em-maringa-02-comunidade-catolica-colo-de-deus-tickets-35406582040\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">INGRESSO</a>",
+          "caption2": "DATA E HORA<br><br>sex 7 de julho de 2017<br>19:30 – 23:00<br><br>LOCALIZAÇÃO<br><br>Salão da Paróquia São Francisco de Assis<br>Vicente Simino<br>Jardim Alvorada<br>Maringá, PR 87035410<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-em-maringa-02-comunidade-catolica-colo-de-deus-tickets-35406582040\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INGRESSO</a>",
           "media3": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "pencil",
-              "family": "et-line",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/sao-paulo-city-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff"
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title3": "SÃO PAULO / SP",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Acontecerá no dia 05/julho, a entrada custará previamente R$25,00 e no local os preços podem variar. Será na Paróquia Imaculada Conceição de Santa Cruz<br>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-sao-paulo-comunidade-catolica-colo-de-deus-tickets-35746240969\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">INGRESSO</a>",
+          "caption3": "DATA E HORA<br><br>seg 10 de julho de 2017<br>19:30 – 23:00&nbsp;<br><br>LOCALIZAÇÃO<br><br>INVICTUS HALL<br>Professor Luiz Ignácio Anhaia Mello, 2921<br>Jardim Avelino<br>São Paulo, SP 03154100<br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-sao-paulo-comunidade-catolica-colo-de-deus-tickets-35746240969\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INGRESSO</a>",
           "media4": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "global",
-              "family": "et-line",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/arapiraca-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff"
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title4": "ARAPIRACA / AL",
           "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Acontecerá no dia 05/julho, a entrada custará previamente R$25,00 e no local os preços podem variar. Será na Paróquia Imaculada Conceição de Santa Cruz<br>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-arapiraca-comunidade-catolica-colo-de-deus-tickets-35746358320\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">INGRESSO</a>",
+          "caption4": "DATA E HORA<br><br>sex 15 e 16 de julho de 2017<br>19:30 – 23:00<br><br>LOCALIZAÇÃO<br><br>Espaço Iluminare<br>Rua Antônio Juvino, 2016<br>Canaã<br>Arapiraca, AL<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-arapiraca-comunidade-catolica-colo-de-deus-tickets-35746358320\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INGRESSO</a>",
           "media5": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "global",
-              "family": "et-line",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/recife-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff"
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
           "title5": "RECIFE / PE",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "caption5": "DATA E HORA<br><br>sex 7 de julho de 2017<br>19:30 – 23:00<br><br>LOCALIZAÇÃO<br><br>Estamos fechando local<br><br><br><br><br><br>",
+          "button5": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EM BREVE</a>",
           "media6": {
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features3",
-              "linkInNewWindow": false,
-              "name": "global",
-              "family": "et-line",
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/brasilia-600x399.jpg",
+              "class": "card-img-top",
+              "width": 600,
               "active": true,
-              "link": "https://mobirise.com",
-              "size": 0,
-              "color": "#ffffff"
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             }
           },
-          "title6": "BRASILIA / DF",
+          "title6": "BRASÍLIA / DF",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+          "caption6": "DATA E HORA<br><br>qua 19 de julho de 2017<br>19:30 – 23:00&nbsp;<br><br>LOCALIZAÇÃO<br><br>TEATRO CARMEN SALLES<br>Via L2 Norte, Quadra 604<br>Asa Norte<br>Brasília, DF<br><br>",
+          "button6": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-brasilia-comunidade-catolica-colo-de-deus-tickets-35746591016\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INGRESSO</a>",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#ef676b"
+            },
+            ".mbr-cards-col:nth-child(even) .card-title": {
+              "color": "#ffffff",
+              "font-size": "16px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-size": "11px"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "font-size": "10px",
+              "text-align": "left"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "font-size": "16px"
+            }
+          }
         },
         {
           "_styles": {
@@ -677,7 +690,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ÁGUAS PROFUNDAS</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://colodedeus.com.br\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SOBRE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">ONDE PASSAMOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">COMPARTILHE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRÓXIMOS LOCAIS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">RIO DE JANEIRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">MARINGÁ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SÃO PAULO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">ARAPIRACA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">RECIFE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">BRASILIA</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://\">SE INSCREVER</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://colodedeus.com.br\">INICIO</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">SOBRE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#gallery4-6\">ONDE PASSAMOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#social-buttons3-b\">COMPARTILHE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"index.html#header3-p\" aria-expanded=\"false\">PRÓXIMOS LOCAIS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-p\">RIO DE JANEIRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-p\">MARINGÁ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-p\">SÃO PAULO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-p\">ARAPIRACA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-p\">RECIFE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#header3-p\">BRASILIA</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-d\" aria-expanded=\"true\">CONTATO</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://\">SE INSCREVER</a></li>"
         },
         {
           "_tags": [
@@ -718,9 +731,9 @@
               "size": 0
             }
           },
-          "text1": "<strong>Endereço</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
-          "text2": "<strong>Contatos</strong><br>\nEmail: support@mobirise.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
-          "text3": "<strong>\u001bSoa</strong><br>\n<a class=\"text-info\" href=\"https://mobirise.com/\">Website builder</a><br>\n<a class=\"text-info\" href=\"https://mobirise.com/mobirise-free-win.zip\">Download for Windows</a><br>\n<a class=\"text-info\" href=\"https://mobirise.com/mobirise-free-mac.zip\">Download for Mac</a>"
+          "text1": "<strong>Endereço</strong><br>Av. Mal. Floriano Peixoto, 10781 - Boqueirão, Curitiba - PR, 80050-540<br>",
+          "text2": "<strong>Contato</strong><br>\nEmail: eventos@colodedeus.com.br<br>Telefone: +55 41 3297 1042<br><br>",
+          "text3": "<strong>\u001b</strong>"
         },
         {
           "_tags": [
@@ -748,8 +761,8 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#3C3C3C"
           },
-          "text1": "<strong><br></strong><br>Somos uma comunidade de adoradores, queremos ser o útero materno de Deus pai.<br><br><br>",
-          "text2": "<p class=\"mbr-contacts__text\"><strong>Links</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://colodedeus.com.br\">Colo de Deus</a></li><li><a href=\"http://blog.colodedeus.com.br\" target=\"_blank\">Blog Colo de Deus</a></li><li><a href=\"http://colodedeus.com.br/agenda\" target=\"_blank\">Eventos Colo de Deus</a></li><li><a href=\"http://youtube.com/colodedeus\" target=\"_blank\">Web Tv</a></li></ul>",
+          "text1": "<strong><br></strong><b>Quem Somos?<br></b>Uma comunidade. Um grupo. Uma organização sem fins lucrativos. Uma força. O útero materno do Pai. Em volta de Cristo, geramos Cristo para este mundo cansado e doente. Somos o lugar de descanso. Somos a mão estendida, a palavra de conforto, o ouvido do outro lado da linha. Somos a voz que não pergunta como chegou mas diz como pode sair. Somos uma imagem visível daquele que é maior do nós, mas invisível aos olhos humanos. Somos frutos maduros. Somos Jovens, Crianças, homens e mulheres. Estamos conectados, ligados, ao tronco. Buscamos viver o sobrenatural, sendo gente como gente tem que ser. Em volta de Cristo.&nbsp;<br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Links Úteis : &nbsp;</strong></p><ul class=\"mbr-contacts__list\"><li><a class=\"text-white\" href=\"http://colodedeus.com.br\">Colo de Deus</a></li><li><a href=\"http://blog.colodedeus.com.br\" target=\"_blank\">Blog Colo de Deus</a></li><li><a href=\"http://colodedeus.com.br/agenda\" target=\"_blank\">Eventos Colo de Deus</a></li><li><a href=\"http://youtube.com/colodedeus\" target=\"_blank\">Web Tv</a></li></ul>",
           "form": {
             "title": "MESSAGE",
             "action": "eventos@colodedeus.com.br",
