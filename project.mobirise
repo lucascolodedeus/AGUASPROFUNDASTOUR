@@ -9,7 +9,7 @@
         "primaryColor": "#ef676b",
         "secondaryColor": "#203274",
         "successColor": "#000000",
-        "infoColor": "#f2f2f2",
+        "infoColor": "#ffffff",
         "warningColor": "#a9a9a9",
         "dangerColor": "#ef676b",
         "titleFont": "Open Sans",
@@ -22,15 +22,18 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 26,
+    "versionPublish": "3.12.1",
+    "favicon": "",
+    "noImageResize": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-85744913-11', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>\r\n"
   },
   "pages": {
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "ÁGUAS PROFUNDAS TOUR | Colo de Deus ",
+        "meta_descr": "Sempre teve vontade de participar do Águas Profundas? Sempre que assisti as lives, apaga a luz do quarto e começa a rezar?\nEntão você vai gostar da notícia: AGORA VAMOS FAZER O ÁGUAS EM ALGUMAS CIDADES DO BRASIL!",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -45,7 +48,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/banner-aguas-tour-1400x787.png",
+              "src": "@PROJECT_PATH@/assets/images/aguas-profundas-site-tour-1400x787.jpg",
               "width": 1400,
               "link": "",
               "alt": "",
@@ -92,18 +95,18 @@
             "Theme"
           ],
           "_name": "content1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "content1-n",
           "_params": {
             "paddingTop": "1",
             "paddingBottom": "7",
             "bgColor": "#203274"
           },
-          "text": "<p>Sempre teve vontade de participar do Águas Profundas?&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Sempre que assisti as lives, apaga a luz do quarto e começa a rezar?</span></p><p>Então você vai gostar da notícia: AGORA VAMOS FAZER O ÁGUAS EM ALGUMAS CIDADES DO BRASIL!</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">O Águas Profundas é nosso encontro semanal de aprofundamento e formação, onde vamos fundo na presença de Deus através da adoração, do louvor, e também do estudo da Palavra, dos ensinamentos da Igreja e da vida dos santos. Você não pode perder!</span><br></p>",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          }
+          "text": "<p>Sempre teve vontade de participar do Águas Profundas?&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Sempre que assisti as lives, apaga a luz do quarto e começa a rezar?</span></p><p>Então você vai gostar da notícia: AGORA VAMOS FAZER O ÁGUAS EM ALGUMAS CIDADES DO BRASIL!</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">O Águas Profundas é nosso encontro semanal de aprofundamento e formação, onde vamos fundo na presença de Deus através da adoração, do louvor, e também do estudo da Palavra, dos ensinamentos da Igreja e da vida dos santos. Você não pode perder!</span><br></p>"
         },
         {
           "_inherit": "features1",
@@ -432,6 +435,166 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": 1,
+            "bgColor": "#ef676b",
+            "showMeta": true
+          },
+          "title": "Próximas Paradas",
+          "meta": "Confira abaixo os próximos locais da nossa turnê"
+        },
+        {
+          "_inherit": "features3",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features6",
+          "_styles": {
+            "H4": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "features6-o",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ef676b",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "6",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": true
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "desktop",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title1": "RIO DE JANEIRO / RJ",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Acontecerá no dia 05/julho, a entrada custará previamente R$25,00 e no local os preços podem variar. Será na Paróquia Imaculada Conceição de Santa Cruz<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">GARANTIR INGESSO</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "mobile",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title2": "MARINGÁ / PR&nbsp;",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Acontecerá no dia 07/julho, a entrada custará previamente R$25,00 e no local os preços podem variar. Será na Paróquia Imaculada Conceição de Santa Cruz<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-em-maringa-02-comunidade-catolica-colo-de-deus-tickets-35406582040\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">INGRESSO</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title3": "SÃO PAULO / SP",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Acontecerá no dia 05/julho, a entrada custará previamente R$25,00 e no local os preços podem variar. Será na Paróquia Imaculada Conceição de Santa Cruz<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-sao-paulo-comunidade-catolica-colo-de-deus-tickets-35746240969\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">INGRESSO</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title4": "ARAPIRACA / AL",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Acontecerá no dia 05/julho, a entrada custará previamente R$25,00 e no local os preços podem variar. Será na Paróquia Imaculada Conceição de Santa Cruz<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-arapiraca-comunidade-catolica-colo-de-deus-tickets-35746358320\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">INGRESSO</a>",
+          "media5": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title5": "RECIFE / PE",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features3",
+              "linkInNewWindow": false,
+              "name": "global",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#ffffff"
+            }
+          },
+          "title6": "BRASILIA / DF",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
             },
@@ -515,186 +678,6 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ÁGUAS PROFUNDAS</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://colodedeus.com.br\">INICIO</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">SOBRE</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">ONDE PASSAMOS</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">COMPARTILHE</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">PRÓXIMOS LOCAIS</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">RIO DE JANEIRO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">MARINGÁ</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">SÃO PAULO</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">ARAPIRACA</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">RECIFE</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">BRASILIA</a></div></div></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"http://\">SE INSCREVER</a></li>"
-        },
-        {
-          "_inherit": "pricing-table1",
-          "_styles": {
-            ".mbr-plan-header, .mbr-plan-body": {
-              "background-color": "#f4f4f4"
-            },
-            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
-              "color": "#28262b"
-            },
-            ".mbr-plan": {
-              "border-color": "#e8e8e8"
-            },
-            ".mbr-plan .list-group-item": {
-              "border-color": "#cfcfcf"
-            },
-            ".mbr-price-term": {
-              "color": "#000000"
-            },
-            ".mbr-price-figure": {
-              "color": "#000000"
-            },
-            ".mbr-section__container .mbr-section-title": {
-              "color": "#ffffff"
-            },
-            ".mbr-section__container .mbr-section-subtitle": {
-              "color": "#ffffff"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table2",
-          "_anchor": "pricing-table2-c",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "parallax": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ef676b",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": ""
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#ef676b",
-            "showTitle": true,
-            "showSubtitle": true,
-            "firstType": "",
-            "showButtons": true,
-            "secondType": "",
-            "thirdType": "",
-            "fourthType": "hidden"
-          },
-          "title": "PRÓXIMOS LOCAIS",
-          "subtitle": "Confira abaixo os próximos locais e valores das inscrições",
-          "label1": "HOT!",
-          "title1": "RIO DE JANEIRO / RJ",
-          "subtitle1": "Acontecerá no dia 05/julho<br>",
-          "currency1": "R$",
-          "price1": "25",
-          "period1": ",<i>00</i>",
-          "description1": "*Na hora preço pode variar",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Inicio às 19h</li><li class=\"list-group-item\">Paróquia Imaculada Conceição de Santa Cruz</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://\" class=\"btn btn-secondary-outline btn-secondary\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>",
-          "label2": "NOVO!",
-          "title2": "MARINGÁ / PR&nbsp;",
-          "subtitle2": "Acontecerá no dia 07/julho",
-          "currency2": "R$",
-          "price2": "25",
-          "period2": ",00",
-          "description2": "*Na hora preço pode variar",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Inicio às 19h</li><li class=\"list-group-item\">Paróquia Imaculada Conceição de Santa Cruz</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-em-maringa-02-comunidade-catolica-colo-de-deus-tickets-35406582040?aff=erelexpmlt\" class=\"btn btn-secondary-outline btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">COMPRAR</a>",
-          "label3": "HOT!",
-          "title3": "SÃO PAULO / SP",
-          "subtitle3": "Acontecerá no dia 10/julho",
-          "currency3": "R$",
-          "price3": "25",
-          "period3": ",00",
-          "description3": "*Na hora preço pode variar",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Inicio às 19h</li><li class=\"list-group-item\">Paróquia Imaculada Conceição de Santa Cruz</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"http://\" class=\"btn btn-secondary-outline btn-secondary\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>",
-          "label4": "NOVO!",
-          "title4": "ARAPIRACA / AL",
-          "subtitle4": "Acontecerá nos dias 15 e 16/jul",
-          "currency4": "$",
-          "price4": "25",
-          "period4": ",00",
-          "description4": "*Na hora preço pode variar",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Inicio às 19h</span></li><li class=\"list-group-item\"><span style=\"font-size: 0.875rem; line-height: 3.125rem;\">Pacote para os dois dias por R$ 40,00</span></li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-success-outline btn-success\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>"
-        },
-        {
-          "_inherit": "pricing-table1",
-          "_styles": {
-            ".mbr-plan-header, .mbr-plan-body": {
-              "background-color": "#f4f4f4"
-            },
-            "ul, .mbr-plan-title, .mbr-price-value, .mbr-price-figure, .mbr-price-term": {
-              "color": "#28262b"
-            },
-            ".mbr-plan": {
-              "border-color": "#e8e8e8"
-            },
-            ".mbr-plan .list-group-item": {
-              "border-color": "#cfcfcf"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "pricing-table2",
-          "_anchor": "pricing-table2-i",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#ef676b",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showTitle": false,
-            "showSubtitle": false,
-            "firstType": "",
-            "showButtons": true,
-            "secondType": "",
-            "thirdType": "",
-            "fourthType": "hidden"
-          },
-          "title": "PRICING TABLE",
-          "subtitle": "Pricing table with four columns and solid color background.",
-          "label1": "HOT!",
-          "title1": "ARAPIRACA / AL",
-          "subtitle1": "Acontecerá nos dias 15 e 16/jul",
-          "currency1": "R$",
-          "price1": "25",
-          "period1": ",00",
-          "description1": "*Na hora preço pode variar",
-          "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Inicio às 19h</li><li class=\"list-group-item\">Pacote para os dois dias por R$ 40,00</li><li class=\"list-group-item\"><br></li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"http://\" class=\"btn btn-secondary-outline btn-secondary\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>",
-          "label2": "HOT!",
-          "title2": "RECIFE / PE",
-          "subtitle2": "Acontecerá no dia 17/jul",
-          "currency2": "r$",
-          "price2": "25",
-          "period2": ",00",
-          "description2": "*Na hora preço pode variar",
-          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Inicio às 19h</li><li class=\"list-group-item\">Paróquia</li><li class=\"list-group-item\"><br></li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"http://\" class=\"btn btn-secondary-outline btn-secondary\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>",
-          "label3": "HOT!",
-          "title3": "BRASILIA / DF",
-          "subtitle3": "Acontecerá no dia 19/jul",
-          "currency3": "r$",
-          "price3": "25",
-          "period3": ",00",
-          "description3": "*Na hora preço pode variar",
-          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Inicio às 19h</li><li class=\"list-group-item\">Paróquia</li><li class=\"list-group-item\"><br></li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"http://\" class=\"btn btn-secondary-outline btn-secondary\" data-toolbar=\"-mbrBtnMove\">COMPRAR</a>",
-          "label4": "HOT!",
-          "title4": "ULTIMATE",
-          "subtitle4": "Description",
-          "currency4": "$",
-          "price4": "0",
-          "period4": "/mo.",
-          "description4": "More details",
-          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">32 GB storage</li><li class=\"list-group-item\">Unlimited users</li><li class=\"list-group-item\">15 GB bandwidth</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\">DEMO</a>"
         },
         {
           "_tags": [
