@@ -108,7 +108,7 @@
             "paddingBottom": "7",
             "bgColor": "#203274"
           },
-          "text": "<p>Sempre teve vontade de participar do Águas Profundas?&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Sempre que assisti as lives, apaga a luz do quarto e começa a rezar?</span></p><p>Então você vai gostar da notícia: AGORA VAMOS FAZER O ÁGUAS EM ALGUMAS CIDADES DO BRASIL!</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">O Águas Profundas é nosso encontro semanal de aprofundamento e formação, onde vamos fundo na presença de Deus através da adoração, do louvor, e também do estudo da Palavra, dos ensinamentos da Igreja e da vida dos santos. Você não pode perder!</span><br></p>"
+          "text": "<p>Sempre teve vontade de participar do Águas Profundas?&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Sempre que assisti as lives, apaga a luz do quarto e começa a rezar?</span></p><p>Então você vai gostar da notícia: AGORA VAMOS FAZER O ÁGUAS EM ALGUMAS CIDADES DO BRASIL!</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p>O Águas Profundas é nosso encontro semanal de aprofundamento e formação, onde vamos fundo na presença de Deus através da adoração, do louvor, do estudo da Palavra, dos ensinamentos da Igreja e da vida dos santos. Você não pode perder!</p>"
         },
         {
           "_inherit": "features1",
@@ -208,7 +208,7 @@
             }
           },
           "title3": "LOUVOR",
-          "subtitle3": "Chapar no espirito",
+          "subtitle3": "Louvar a Deus",
           "caption3": "",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
@@ -513,7 +513,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/rio-de-janeiro-city-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/rj-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -529,7 +529,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\">EM BREVE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/maring-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/maring-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -545,7 +545,7 @@
           "button2": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-em-maringa-02-comunidade-catolica-colo-de-deus-tickets-35406582040\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INGRESSO</a>",
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sao-paulo-city-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sp-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -561,7 +561,7 @@
           "button3": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-sao-paulo-comunidade-catolica-colo-de-deus-tickets-35746240969\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INGRESSO</a>",
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/arapiraca-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/arapiraca-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -577,7 +577,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://www.eventbrite.com.br/e/aguas-profundas-arapiraca-comunidade-catolica-colo-de-deus-tickets-35746358320\" class=\"btn btn-primary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">INGRESSO</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/recife-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/recife-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -593,7 +593,7 @@
           "button5": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-secondary\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">EM BREVE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/brasilia-600x399.jpg",
+              "src": "@PROJECT_PATH@/assets/images/brasilia-600x398.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
